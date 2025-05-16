@@ -1,7 +1,7 @@
 import argparse, sys
+# HashPuppy, a simple python script for guessing a probable hash type based solely on length
 
-# algorithm mapping
-
+# Algorithm mapping
 algo = {
     "md5": 32,
     "sha1": 40,

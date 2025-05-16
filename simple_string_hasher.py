@@ -1,4 +1,6 @@
 import hashlib, argparse, sys
+# Simple python strings hasher
+
 
 def hash_string(string, algorithm):
     if algorithm not in hashlib.algorithms_guaranteed:

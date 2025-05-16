@@ -22,8 +22,10 @@ and keeps my code from getting lost in random folders.
 The code here is just for learning, failing, fixing, and growing. Since this is diary, expect some errors, corrections and fixes — it’s all part of the learning journey. 
 You’ll also find a lot of comments in the code, as I tend to comment heavily, especially when I’m figuring things out.
 
-**Some scripts may involve security, networking, or other sensitive topics and are provided for educational and ethical use only.  
-Please use all code responsibly and within the bounds of the law.**
+> [!IMPORTANT]
+> Some scripts may involve security, networking, or other sensitive topics and are provided for educational, ethical use and pratice only.  
+Please use all code responsibly and within the bounds of the law.
+
 
 Nonetheless, feel free to look around, reuse, or fork anything — but don’t expect perfection.
 
