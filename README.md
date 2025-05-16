@@ -19,9 +19,8 @@ and keeps my code from getting lost in random folders.
 
 ## Disclaimer
 
-The code here is just for learning, failing, fixing, and growing.  
-Since this is basically a diary, expect a lot of comments in the code.  
-I comment heavily, especially when I’m figuring things out.
+The code here is just for learning, failing, fixing, and growing. Since this is almost like a diary, expect some errors — it’s all part of the learning journey. 
+You’ll also find a lot of comments in the code, as I tend to comment heavily, especially when I’m figuring things out.
 
 **Some scripts may involve security, networking, or other sensitive topics and are provided for educational and ethical use only.  
 Please use all code responsibly and within the bounds of the law.**
