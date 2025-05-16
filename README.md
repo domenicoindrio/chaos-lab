@@ -19,7 +19,7 @@ and keeps my code from getting lost in random folders.
 
 ## Disclaimer
 
-The code here is just for learning, failing, fixing, and growing. Since this is almost like a diary, expect some errors — it’s all part of the learning journey. 
+The code here is just for learning, failing, fixing, and growing. Since this is diary, expect some errors, corrections and fixes — it’s all part of the learning journey. 
 You’ll also find a lot of comments in the code, as I tend to comment heavily, especially when I’m figuring things out.
 
 **Some scripts may involve security, networking, or other sensitive topics and are provided for educational and ethical use only.  
